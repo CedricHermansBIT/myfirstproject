@@ -1,3 +1,3 @@
 print("Hello milkyway!")
-print("unbelievable, is this really a third line?")
-
+print("unbelievable, it is really a third line!")
+print("Whoah, a fourth one as well!")
